@@ -1,0 +1,52 @@
+MainMenu = [AAFFFF]Main Menu
+
+Bomb = [AAFFFF]Bomb
+BombTooltip = Explodes all\nenemies at once
+Time = [AAFFFF]Time
+TimeTooltip = Slows Time\nfor 10 seconds
+
+Powers = [AAFFFF]Powers
+Available = [AAFFFF]Available
+Selected = [AAFFFF]Selected
+
+EnterName = Enter your name here
+Nickname = [AAFFFF]Nickname
+Difficulty = [AAFFFF]Difficulty
+Volume = [AAFFFF]Volume
+Sound = [AAFFFF]Sound
+Enabled = Enabled
+
+Play = Play
+Exit = Exit
+Options = Options
+Language = [AAFFFF]Language
+
+WelcomeMessage = Welcome!\n\nYou can Select one of two [AAFFFF]Powers[FFFFFF]:\n[AAFFAA]Bomb[FFFFFF]: Explodes all enemies at once\n[AAFFAA]Time[FFFFFF]: Slows Time for 10 seconds
+
+Instructions = [55AA99]Drag\nPower\nhere
+
+Normal = Normal
+Hard = Hard
+
+English = English
+French = Français
+
+NicknameNotification = [AAFFFF]Please Enter a [00FFAA]Nickname[AAFFFF] before you continue!
+PowerNotification = [AAFFFF]Please Select a [00FFAA]Power[AAFFFF] before you continue!
+
+//Game
+Barrier = [99FF99]Barrier
+BuildingBarrier = [FF6666]Building\nBarrier...
+Wait = Wait
+
+BarrierAvailableNotification = New [99FF99]Barrier[FFFFFF] Available!
+
+//Hacking status
+CodeEncrypted = Code Encrypted
+Hacking = [FF6666]Hacking...
+//Self-Destruct Codes
+Space = space
+Neptune = neptune
+Moon = moon
+Mars = mars
+Jupiter = jupiter

@@ -1,0 +1,40 @@
+﻿KEY,English,Français
+Flag,Flag-US,Flag-FR
+Language,English,Français
+MainMenu,[AAFFFF]Main Menu,[AAFFFF]Menu Principal
+Bomb,[AAFFFF]Bomb,[AAFFFF]Bombe
+BombTooltip,Explodes all\nenemies at once,Détruit tous les ennemis d'un coup
+Time,[AAFFFF]Time,[AAFFFF]Temps
+TimeTooltip,Slows Time\nfor 10 seconds,Ralentit le temps pour 10 secondes
+Powers,[AAFFFF]Powers,[AAFFFF]Power-Ups
+Available,[AAFFFF]Available,[AAFFFF]Disponibles
+Selected,[AAFFFF]Selected,[AAFFFF]Sélectionné
+EnterName,Enter your name here,Entrez votre nom ici
+Nickname,[AAFFFF]Nickname,[AAFFFF]Pseudo
+Difficulty,[AAFFFF]Difficulty,[AAFFFF]Difficulté
+Volume,[AAFFFF]Volume,[AAFFFF]Volume
+Sound,[AAFFFF]Sound,[AAFFFF]Son
+Enabled,Enabled,Activé
+Play,Play,Jouer
+Exit,Exit,Quitter
+Options,Options,Options
+Language,[AAFFFF]Language,[AAFFFF]Langue
+WelcomeMessage,Welcome!\n\nYou can Select one of two [AAFFFF]Powers[FFFFFF]:\n[AAFFAA]Bomb[FFFFFF]: Explodes all enemies at once\n[AAFFAA]Time[FFFFFF]: Slows Time for 10 seconds,[AAFFAA]Bombe[FFFFFF] : Détruit tous les ennemis d'un coup\n[AAFFAA]Temps[FFFFFF]: Ralentit le temps pour 10 sec
+Instructions,[55AA99]Drag\nPower\nhere,[55AA99]Glissez\nun Power-Up\nici
+Normal,Normal,Normale
+Hard,Hard,Difficile
+English,English,English
+French,Français,Français
+NicknameNotification,[AAFFFF]Please Enter a [00FFAA]Nickname[AAFFFF] before you continue!,[AAFFFF]Merci d'entrer un [00FFAA]Pseudo[AAFFFF] avant de continuer !
+PowerNotification,[AAFFFF]Please Select a [00FFAA]Power[AAFFFF] before you continue!,[AAFFFF]Merci de sélectionner un [00FFAA]Power-Up[AAFFFF] avant de continuer !
+Barrier,[99FF99]Barrier,Barrière
+BuildingBarrier,[FF6666]Building\nBarrier...,[FF6666]Construction\nBarrière...
+Wait,Wait,Attendez
+BarrierAvailableNotification,New [99FF99]Barrier[FFFFFF] Available!,Nouvelle [99FF99]Barrière[FFFFFF] Disponible !
+CodeEncrypted,Code Encrypted,Code Crypté
+Hacking,[FF6666]Hacking...,[FF6666]Piratage...
+Space,space,espace
+Neptune,neptune,neptune
+Moon,moon,lune
+Mars,mars,mars
+Jupiter,jupiter,jupiter

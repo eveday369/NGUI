@@ -1,0 +1,52 @@
+MainMenu = [AAFFFF]Menu Principal
+
+Bomb = [AAFFFF]Bombe
+BombTooltip = Détruit tous les ennemis d'un coup
+Time = [AAFFFF]Temps
+TimeTooltip = Ralentit le temps pour 10 secondes
+
+Powers = [AAFFFF]Power-Ups
+Available = [AAFFFF]Disponibles
+Selected = [AAFFFF]Sélectionné
+
+EnterName = Entrez votre nom ici
+Nickname = [AAFFFF]Pseudo
+Difficulty = [AAFFFF]Difficulté
+Volume = [AAFFFF]Volume
+Sound = [AAFFFF]Son
+Enabled = Activé
+
+Play = Jouer
+Exit = Quitter
+Options = Options
+Language = [AAFFFF]Langue
+
+WelcomeMessage = Bienvenue !\n\nVous pouvez choisir l'un des deux [AAFFFF]Power-Ups[FFFFFF] :\n[AAFFAA]Bombe[FFFFFF] : Détruit tous les ennemis d'un coup\n[AAFFAA]Temps[FFFFFF]: Ralentit le temps pour 10 sec
+
+Instructions = [55AA99]Glissez\nun Power-Up\nici
+
+Normal = Normale
+Hard = Difficile
+
+English = English
+French = Français
+
+NicknameNotification = [AAFFFF]Merci d'entrer un [00FFAA]Pseudo[AAFFFF] avant de continuer !
+PowerNotification = [AAFFFF]Merci de sélectionner un [00FFAA]Power-Up[AAFFFF] avant de continuer !
+
+//Game
+Barrier = Barrière
+BuildingBarrier = [FF6666]Construction\nBarrière...
+Wait = Attendez
+
+BarrierAvailableNotification = Nouvelle [99FF99]Barrière[FFFFFF] Disponible !
+
+//Hacking status
+CodeEncrypted = Code Crypté
+Hacking = [FF6666]Piratage...
+//Self-Destruct Codes
+Space = espace
+Neptune = neptune
+Moon = lune
+Mars = mars
+Jupiter = jupiter

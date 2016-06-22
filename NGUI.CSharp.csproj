@@ -200,18 +200,29 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
+    <Compile Include="Assets\Scripts\ActiveBarrierController.cs" />
     <Compile Include="Assets\Scripts\AppearFromAbove.cs" />
+    <Compile Include="Assets\Scripts\BarrierObjectController.cs" />
     <Compile Include="Assets\Scripts\DragItem.cs" />
     <Compile Include="Assets\Scripts\DropSurface.cs" />
+    <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\EnemySpawnController.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\HealthController.cs" />
+    <Compile Include="Assets\Scripts\ItemManager.cs" />
+    <Compile Include="Assets\Scripts\KeyboardScroll.cs" />
     <Compile Include="Assets\Scripts\LaunchValidator.cs" />
     <Compile Include="Assets\Scripts\NotificationManager.cs" />
     <Compile Include="Assets\Scripts\Power.cs" />
     <Compile Include="Assets\Scripts\TooltipManager.cs" />
     <Compile Include="Assets\Scripts\UpdatePanel.cs" />
+    <Compile Include="Assets\Scripts\ViewportHolder.cs" />
     <Compile Include="Assets\Scripts\VolumeManager.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Fonts\FONTLOG.txt" />
+    <None Include="Assets\Fonts\LICENSE.txt" />
+    <None Include="Assets\Fonts\Sources\Pacaya.fnt" />
     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />

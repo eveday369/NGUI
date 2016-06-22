@@ -6,7 +6,8 @@ public class NotificationManager : MonoBehaviour {
     public enum Type
     {
         Nickname,
-        Power
+        Power,
+        BarrierAvailable
     }
 
     public UILocalize loc;
